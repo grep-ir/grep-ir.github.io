@@ -2,7 +2,7 @@
 title: grep-ir.com
 ---
 ```bash
-grep -ir love .
+grep -ir everything .
 ```
 # Content
 * [Adventures in DevOps](./devops.md)
